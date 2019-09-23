@@ -21,6 +21,13 @@ conda create --name gwpy python=3.7 gwosc=0.4.3 gwpy=0.15.0 jupyter scipy=1.3.1
 conda activate gwpy
 ```
 
+### 3a. Clone this repository!
+
+```
+git clone https://github.com/duncanmmacleod/gw-opendata-quickstart.git
+cd gw-opendata-quickstart
+```
+
 ### 3. Open jupyter notebooks using the new environment
 
 ```bash
